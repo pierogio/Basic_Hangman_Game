@@ -1,1 +1,1 @@
-# examns_final_MF0226
+# BAsic hangman game in python
